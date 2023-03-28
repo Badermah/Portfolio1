@@ -15,9 +15,9 @@ body {
 
 .myimage {
   display: flex;
-position: relative;
-left: 900px;
-width: 200px;
+  position: relative;
+  left: 900px;
+  width: 200px;
 }
 
 header {
@@ -101,7 +101,7 @@ ul {
 .images {
   display: flex;
   flex-wrap: wrap;
-  justify-content:space-around;
+  justify-content: space-around;
 }
 
 .image-item {
